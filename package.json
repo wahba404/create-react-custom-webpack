@@ -1,5 +1,5 @@
 {
-  "name": "create-react-custom",
+  "name": "create-react-webpack",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
     "react-dom": "^18.2.0"
   },
   "bin": {
-    "create-react-app-custom-webpack": "./generate-app.js"
+    "create-react-webpack": "./generate-app.js"
   }
 }
